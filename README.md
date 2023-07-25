@@ -18,7 +18,7 @@ Installation and Setup
 To run the "We-Heal" project locally, follow these steps:
 
 1. Clone the repository from GitHub:
-	git clone https://github.com/your-username/we-heal.git
+	git clone [https://github.com/your-username/we-heal.git](https://github.com/krishanjit19/We-Heal.git)
 2. Install the project dependencies:
 	cd we-heal
 	npm install
