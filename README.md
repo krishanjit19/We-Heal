@@ -1,3 +1,4 @@
+
 # We-Heal
 We-Heal: Blood Test Booking System
 Project Overview
@@ -42,3 +43,15 @@ Integration with Health Tracking Devices: Allow users to sync data from their he
 Multi-Language Support: Extend language support to cater to a broader user base by implementing localization and translation features.
 Conclusion
 "We-Heal" is a feature-rich blood test booking system that offers users a convenient and streamlined experience for scheduling blood tests. With its user-friendly interface, secure payment processing, and integration of OpenAI for user support, the application aims to simplify the process of accessing healthcare services.
+Screensnhot of the Website -
+![about](https://github.com/krishanjit19/We-Heal/assets/84830284/e36f3912-ed82-4861-9a18-dfaefcd7fc3f)
+![tests](https://github.com/krishanjit19/We-Heal/assets/84830284/222df261-831f-45e1-afc5-309e8d5c7262)
+
+![login](https://github.com/krishanjit19/We-Heal/assets/84830284/1ff68b2d-4c2a-4cbf-9d45-9313d565b6ff)
+![chat gpt integration](https://github.com/krishanjit19/We-Heal/assets/84830284/0549655d-f667-4ca5-947b-ae4e050e8773)
+
+![book test](https://github.com/krishanjit19/We-Heal/assets/84830284/a73db359-509b-41d4-be46-3dd1f4a89bb1)
+
+![before login](https://github.com/krishanjit19/We-Heal/assets/84830284/e5c5b9f6-6366-4fe9-ad1c-4b934fad0e11)
+
+
